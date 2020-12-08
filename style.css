@@ -22,7 +22,7 @@ body{
     padding: 1%;
     clear: both
 }
-.fun-facts{
+aside.fun-facts{
     float: right;
     border-style: solid;
     border: 5px;
