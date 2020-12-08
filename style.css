@@ -6,13 +6,17 @@ header{
     background-color: lightgray;
     color: white;
     text-align: center;
+    font-size: 24px;
+   
     
 }
 body{
     background-color: white;
+    padding: 10;
+    margin: 10;
 }
  img{
-    max-width: 5%;
+    max-width: 15%;
     max-height: auto;
     float: right;
     padding: 1%;
@@ -23,10 +27,12 @@ body{
     border-style: solid;
     border: 5px;
     max-width: 25%;
+    clear: right;
+    margin-right: 10px;
 }
 footer{
-    left: 0;
-    bottom: 0;
+    left: -10;
+    bottom: -10;
     position: relative;
     clear: both;
 }
