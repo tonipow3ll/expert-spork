@@ -1,0 +1,1 @@
+var Platyarray = ["The platypus is only found in Australia", "The platypus has a duck-bill, bevear tails, otter feet,", "Although the Platypus is considered a mammal it does lay eggs"]
